@@ -1,6 +1,5 @@
 #include<iostream>
-//coding by m.zanuar f
-//221112015
+//coding by m.zanuar f.
 //mygit= https://github.com/Soezz?tab=repositories
 using namespace std;
 int main()

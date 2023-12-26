@@ -1,6 +1,7 @@
 #include<iostream>
 //coding by m.zanuar f.
-//mygit= https://github.com/Soezz?tab=repositories
+//yt:https://www.youtube.com/@sinauenkoy8867
+//mygit= https://github.com/!Soezz?tab=repositories
 using namespace std;
 int main()
 {
